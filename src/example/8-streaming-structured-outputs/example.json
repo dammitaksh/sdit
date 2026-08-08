@@ -1,0 +1,24 @@
+{
+  "recipe": {
+    "name": "Tomato Rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "amount": "1 cup"
+      },
+      {
+        "name": "tomatoes",
+        "amount": "2 medium"
+      },
+      {
+        "name": "onion",
+        "amount": "1 small"
+      }
+    ],
+    "steps": [
+      "Rinse the rice and keep it aside.",
+      "Sauté onion and tomatoes until soft.",
+      "Add rice and water, then cook until done."
+    ]
+  }
+}
